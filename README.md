@@ -1,1 +1,2 @@
-# neoland-basic-algorithms
+Primeros ejercicios sobre variables. 
+
