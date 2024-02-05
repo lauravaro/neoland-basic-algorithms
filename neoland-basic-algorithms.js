@@ -106,8 +106,18 @@ if (number2 %=2 === number1 || number1 %=5 === number3) {
 }
 
 
-
 // #6 Bucles
+for (var G = 0; G < 10; G++) {
+console.log(G);
+  }
 
+for (let H = 0; H <= 9; H++) {
+ if (H % 2 === 0) {
+ console.log(i);
+    }
+  }
 
-
+for (let D = 1; D <= 10; D++) { 
+    if (D === 10) { console.log('Dormido!'); } 
+    else { console.log('Intentando dormir 🐑'); } 
+}
